@@ -44,3 +44,41 @@
 ![](https://github-contributor-stats.vercel.app/api?username=KipCollo&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
+## Projects
+
+### [Pharmacy Management System](https://github.com/KipCollo/pharmacy-management-system)
+A full-stack web application for managing prescriptions, orders, and customer data.
+- **Frontend:** Angular + Tailwind CSS
+- **Backend:** Spring Boot + PostgreSQL
+- **Features:** JWT auth, prescription uploads, role-based access, email notifications
+
+### [AgriCommerce Platform](https://github.com/yourusername/agri-commerce)
+An e-commerce platform for farmers to buy/sell agricultural products.
+- **Frontend:** React
+- **Backend:** Java (Spring Boot), MongoDB, PostgreSQL
+- **DevOps:** Docker, AWS, Keycloak, Kafka, Kubernetes
+
+### [Expense Tracker App](https://github.com/yourusername/expense-tracker)
+A user-friendly expense tracking tool with authentication and analytics.
+- **Frontend:** React
+- **Backend:** Node.js + Express
+- **Database:** PostgreSQL
+- **Authentication:** Custom JWT (no Firebase)
+
+### [DevOps CI/CD Pipeline](https://github.com/yourusername/devops-pipeline-demo)
+A CI/CD pipeline using Jenkins, Docker, and GitHub Actions to build and deploy a microservice.
+- **Tools:** Jenkins, Docker, GitHub Actions, AWS EC2, Kubernetes
+
+### [Monitoring with Grafana & Prometheus](https://github.com/yourusername/monitoring-stack)
+Infrastructure monitoring stack to track system metrics and performance.
+- **Tools:** Grafana, Prometheus, Node Exporter, Docker Compose
+
+### [GraphQL API for Blog Platform](https://github.com/yourusername/graphql-blog-api)
+A GraphQL backend for a blog application.
+- **Stack:** Node.js, GraphQL, PostgreSQL, Apollo Server
+
+### [Android Notes App](https://github.com/yourusername/android-notes-app)
+A mobile app to create, edit, and delete notes.
+- **Language:** Java (Android SDK)
+- **Features:** SQLite storage, light/dark theme, responsive UI
+
